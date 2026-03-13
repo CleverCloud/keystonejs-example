@@ -1,3 +1,5 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+ 
 Keystone Demo
 =============
 
